@@ -1,0 +1,147 @@
+Lumber Yard,1,3,0,0,0,0,0,0,0,0,Brown,1,0,0,0
+Lumber Yard,1,4,0,0,0,0,0,0,0,0,Brown,1,0,0,0
+Stone Pit,1,3,0,0,0,0,0,0,0,0,Brown,0,1,0,0
+Stone Pit,1,5,0,0,0,0,0,0,0,0,Brown,0,1,0,0
+Clay Pool,1,3,0,0,0,0,0,0,0,0,Brown,0,0,1,0
+Clay Pool,1,5,0,0,0,0,0,0,0,0,Brown,0,0,1,0
+Ore Vein,1,3,0,0,0,0,0,0,0,0,Brown,0,0,0,1
+Ore Vein,1,4,0,0,0,0,0,0,0,0,Brown,0,0,0,1
+Tree Farm,1,6,1,0,0,0,0,0,0,0,Brown,1,0,1,0
+Excavation,1,4,1,0,0,0,0,0,0,0,Brown,0,1,1,0
+Clay Pit,1,3,1,0,0,0,0,0,0,0,Brown,0,0,1,1
+Timber Yard,1,3,1,0,0,0,0,0,0,0,Brown,1,1,0,0
+Forest Cave,1,5,1,0,0,0,0,0,0,0,Brown,1,0,0,1
+Mine,1,6,1,0,0,0,0,0,0,0,Brown,0,1,0,1
+Loom,1,3,0,0,0,0,0,0,0,0,Gray,1,0,0
+Loom,1,6,0,0,0,0,0,0,0,0,Gray,1,0,0
+Glassworks,1,3,0,0,0,0,0,0,0,0,Gray,0,1,0
+Glassworks,1,6,0,0,0,0,0,0,0,0,Gray,0,1,0
+Press,1,3,0,0,0,0,0,0,0,0,Gray,0,0,1
+Press,1,6,0,0,0,0,0,0,0,0,Gray,0,0,1
+Pawnshop,1,4,0,0,0,0,0,0,0,0,Blue,,,3
+Pawnshop,1,7,0,0,0,0,0,0,0,0,Blue,,,3
+Baths,1,3,0,0,1,0,0,0,0,0,Blue,,Aqueduct,3
+Baths,1,7,0,0,1,0,0,0,0,0,Blue,,Aqueduct,3
+Altar,1,3,0,0,0,0,0,0,0,0,Blue,,Temple,2
+Altar,1,5,0,0,0,0,0,0,0,0,Blue,,Temple,2
+Theater,1,3,0,0,0,0,0,0,0,0,Blue,,Statue,2
+Theater,1,6,0,0,0,0,0,0,0,0,Blue,,Statue,2
+Tavern,1,4,0,0,0,0,0,0,0,0,Yellow,,,coins,5,none,none
+Tavern,1,5,0,0,0,0,0,0,0,0,Yellow,,,coins,5,none,none
+Tavern,1,7,0,0,0,0,0,0,0,0,Yellow,,,coins,5,none,none
+East Trading Post,1,3,0,0,0,0,0,0,0,0,Yellow,,Forum,trade,east
+East Trading Post,1,7,0,0,0,0,0,0,0,0,Yellow,,Forum,trade,east
+West Trading Post,1,3,0,0,0,0,0,0,0,0,Yellow,,Forum,trade,west
+West Trading Post,1,7,0,0,0,0,0,0,0,0,Yellow,,Forum,trade,west
+Marketplace,1,3,0,0,0,0,0,0,0,0,Yellow,,Caravansery,trade,goods
+Marketplace,1,6,0,0,0,0,0,0,0,0,Yellow,,Caravansery,trade,goods
+Stockade,1,3,0,1,0,0,0,0,0,0,Red,,,1
+Stockade,1,7,0,1,0,0,0,0,0,0,Red,,,1
+Barracks,1,3,0,0,0,0,1,0,0,0,Red,,,1
+Barracks,1,5,0,0,0,0,1,0,0,0,Red,,,1
+Guard Tower,1,3,0,0,0,1,0,0,0,0,Red,,,1
+Guard Tower,1,4,0,0,0,1,0,0,0,0,Red,,,1
+Apothecary,1,3,0,0,0,0,0,1,0,0,Green,,Stables;Dispensary,Compass
+Apothecary,1,5,0,0,0,0,0,1,0,0,Green,,Stables;Dispensary,Compass
+Workshop,1,3,0,0,0,0,0,0,1,0,Green,,Archery Range;Laboratory,Cog
+Workshop,1,7,0,0,0,0,0,0,1,0,Green,,Archery Range;Laboratory,Cog
+Scriptorium,1,3,0,0,0,0,0,0,0,1,Green,,Courthouse;Library,Tablet
+Scriptorium,1,4,0,0,0,0,0,0,0,1,Green,,Courthouse;Library,Tablet
+Sawmill,2,3,1,0,0,0,0,0,0,0,Brown,2,0,0,0
+Sawmill,2,4,1,0,0,0,0,0,0,0,Brown,2,0,0,0
+Quarry,2,3,1,0,0,0,0,0,0,0,Brown,0,2,0,0
+Quarry,2,4,1,0,0,0,0,0,0,0,Brown,0,2,0,0
+Brickyard,2,3,1,0,0,0,0,0,0,0,Brown,0,0,2,0
+Brickyard,2,4,1,0,0,0,0,0,0,0,Brown,0,0,2,0
+Foundry,2,3,1,0,0,0,0,0,0,0,Brown,0,0,0,2
+Foundry,2,4,1,0,0,0,0,0,0,0,Brown,0,0,0,2
+Loom,2,3,0,0,0,0,0,0,0,0,Gray,1,0,0
+Loom,2,5,0,0,0,0,0,0,0,0,Gray,1,0,0
+Glassworks,2,3,0,0,0,0,0,0,0,0,Gray,0,1,0
+Glassworks,2,5,0,0,0,0,0,0,0,0,Gray,0,1,0
+Press,2,3,0,0,0,0,0,0,0,0,Gray,0,0,1
+Press,2,5,0,0,0,0,0,0,0,0,Gray,0,0,1
+Aqueduct,2,3,0,0,3,0,0,0,0,0,Blue,Baths,,5
+Aqueduct,2,7,0,0,3,0,0,0,0,0,Blue,Baths,,5
+Temple,2,3,0,1,0,1,0,0,1,0,Blue,Altar,Pantheon,3
+Temple,2,6,0,1,0,1,0,0,1,0,Blue,Altar,Pantheon,3
+Statue,2,3,0,1,0,0,2,0,0,0,Blue,Theater,Gardens,4
+Statue,2,7,0,1,0,0,2,0,0,0,Blue,Theater,Gardens,4
+Forum,2,3,0,0,0,2,0,0,0,0,Yellow,East Trading Post;West Trading Post,Haven,resource,goods
+Forum,2,6,0,0,0,2,0,0,0,0,Yellow,East Trading Post;West Trading Post,Haven,resource,goods
+Forum,2,7,0,0,0,2,0,0,0,0,Yellow,East Trading Post;West Trading Post,Haven,resource,goods
+Caravansery,2,3,0,2,0,0,0,0,0,0,Yellow,Marketplace,Lighthouse,resource,materials
+Caravansery,2,5,0,2,0,0,0,0,0,0,Yellow,Marketplace,Lighthouse,resource,materials
+Caravansery,2,6,0,2,0,0,0,0,0,0,Yellow,Marketplace,Lighthouse,resource,materials
+Vineyard,2,3,0,0,0,0,0,0,0,0,Yellow,,,coins,1,Brown,all
+Vineyard,2,6,0,0,0,0,0,0,0,0,Yellow,,,coins,1,Brown,all
+Bazaar,2,4,0,0,0,0,0,0,0,0,Yellow,,,coins,2,Gray,all
+Bazaar,2,7,0,0,0,0,0,0,0,0,Yellow,,,coins,2,Gray,all
+Walls,2,3,0,0,3,0,0,0,0,0,Red,,Fortifications,2
+Walls,2,7,0,0,3,0,0,0,0,0,Red,,Fortifications,2
+Training Ground,2,4,0,1,0,0,2,0,0,0,Red,,Circus,2
+Training Ground,2,6,0,1,0,0,2,0,0,0,Red,,Circus,2
+Training Ground,2,7,0,1,0,0,2,0,0,0,Red,,Circus,2
+Stables,2,3,0,1,0,1,1,0,0,0,Red,Apothecary,,2
+Stables,2,5,0,1,0,1,1,0,0,0,Red,Apothecary,,2
+Dispensary,2,3,0,0,0,0,2,0,1,0,Green,Apothecary,Arena;Lodge,Compass
+Dispensary,2,4,0,0,0,0,2,0,1,0,Green,Apothecary,Arena;Lodge,Compass
+Archery Range,2,3,0,2,0,0,1,0,0,0,Red,Workshop,,2
+Archery Range,2,6,0,2,0,0,1,0,0,0,Red,Workshop,,2
+Laboratory,2,3,0,0,0,2,0,0,0,1,Green,Workshop,Siege Workshop;Observatory,Cog
+Laboratory,2,5,0,0,0,2,0,0,0,1,Green,Workshop,Siege Workshop;Observatory,Cog
+Courthouse,2,3,0,0,0,2,0,1,0,0,Blue,Scriptorium,,4
+Courthouse,2,5,0,0,0,2,0,1,0,0,Blue,Scriptorium,,4
+Library,2,3,0,0,2,0,0,1,0,0,Green,Scriptorium,Senate;University,Tablet
+Library,2,6,0,0,2,0,0,1,0,0,Green,Scriptorium,Senate;University,Tablet
+School,2,3,0,1,0,0,0,0,0,1,Green,,Academy;Study,Tablet
+Pantheon,3,3,0,0,0,2,1,1,1,1,Blue,Temple,,7
+Pantheon,3,6,0,0,0,2,1,1,1,1,Blue,Temple,,7
+Gardens,3,3,0,1,0,2,0,0,0,0,Blue,Statue,,5
+Gardens,3,4,0,1,0,2,0,0,0,0,Blue,Statue,,5
+Town Hall,3,3,0,0,2,0,1,0,1,0,Blue,,,6
+Town Hall,3,5,0,0,2,0,1,0,1,0,Blue,,,6
+Town Hall,3,6,0,0,2,0,1,0,1,0,Blue,,,6
+Palace,3,3,0,1,1,1,1,1,1,1,Blue,,,8
+Palace,3,7,0,1,1,1,1,1,1,1,Blue,,,8
+Haven,3,3,0,1,0,0,1,1,0,0,Yellow,Forum,,coins/vp,1,1,Brown,self
+Haven,3,4,0,1,0,0,1,1,0,0,Yellow,Forum,,coins/vp,1,1,Brown,self
+Lighthouse,3,3,0,0,1,0,0,0,1,0,Yellow,Caravansery,,coins/vp,1,1,Yellow,self
+Lighthouse,3,6,0,0,1,0,0,0,1,0,Yellow,Caravansery,,coins/vp,1,1,Yellow,self
+Chamber of Commerce,3,4,0,0,0,2,0,0,0,1,Yellow,,,coins/vp,2,2,Gray,self
+Chamber of Commerce,3,6,0,0,0,2,0,0,0,1,Yellow,,,coins/vp,2,2,Gray,self
+Fortifications,3,3,0,0,1,0,3,0,0,0,Red,Walls,,3
+Fortifications,3,7,0,0,1,0,3,0,0,0,Red,Walls,,3
+Circus,3,4,0,0,3,0,1,0,0,0,Red,Training Ground,,3
+Circus,3,5,0,0,3,0,1,0,0,0,Red,Training Ground,,3
+Circus,3,6,0,0,3,0,1,0,0,0,Red,Training Ground,,3
+Arsenal,3,3,0,2,0,0,1,1,0,0,Red,,,3
+Arsenal,3,4,0,2,0,0,1,1,0,0,Red,,,3
+Arsenal,3,7,0,2,0,0,1,1,0,0,Red,,,3
+Arena,3,3,0,0,2,0,1,0,0,0,Yellow,Dispensary,,coins/vp,3,1,wonder,self
+Arena,3,5,0,0,2,0,1,0,0,0,Yellow,Dispensary,,coins/vp,3,1,wonder,self
+Arena,3,7,0,0,2,0,1,0,0,0,Yellow,Dispensary,,coins/vp,3,1,wonder,self
+Lodge,3,3,0,0,0,2,0,1,0,1,Green,Dispensary,,Compass
+Lodge,3,6,0,0,0,2,0,1,0,1,Green,Dispensary,,Compass
+Siege Workshop,3,3,0,1,0,3,0,0,0,0,Red,Laboratory,,3
+Siege Workshop,3,5,0,1,0,3,0,0,0,0,Red,Laboratory,,3
+Observatory,3,3,0,0,0,0,2,1,1,0,Green,Laboratory,,Cog
+Observatory,3,7,0,0,0,0,2,1,1,0,Green,Laboratory,,Cog
+Senate,3,3,0,2,1,0,1,0,0,0,Blue,Library,,6
+Senate,3,5,0,2,1,0,1,0,0,0,Blue,Library,,6
+University,3,3,0,2,0,0,0,0,1,1,Green,Library,,Tablet
+University,3,4,0,2,0,0,0,0,1,1,Green,Library,,Tablet
+Academy,3,3,0,0,3,0,0,0,1,0,Green,School,,Compass
+Academy,3,7,0,0,3,0,0,0,1,0,Green,School,,Compass
+Study,3,3,0,1,0,0,0,1,0,1,Green,School,,Cog
+Study,3,5,0,1,0,0,0,1,0,1,Green,School,,Cog
+Workers Guild,3,3,0,1,1,1,2,0,0,0,Purple,vp,1,Brown,neighbors
+Craftsmens Guild,3,3,0,0,2,0,2,0,0,0,Purple,vp,2,Gray,neighbors
+Traders Guild,3,3,0,0,0,0,0,1,1,1,Purple,vp,1,Yellow,neighbors
+Philosophers Guild,3,3,0,0,0,3,0,1,0,1,Purple,vp,1,Green,neighbors
+Spies Guild,3,3,0,0,0,3,0,0,1,0,Purple,vp,1,Red,neighbors
+Strategists Guild,3,3,0,0,1,0,2,1,0,0,Purple,vp,1,defeat,neighbors
+Shipowners Guild,3,3,0,3,0,0,0,0,1,1,Purple,vp,1,Brown;Gray;Purple,self
+Scientists Guild,3,3,0,2,0,0,2,0,0,1,Purple,science
+Magistrates Guild,3,3,0,3,1,0,0,1,0,0,Purple,vp,1,Blue,neighbors
+Builders Guild,3,3,0,0,2,2,0,0,1,0,Purple,vp,1,wonder,all

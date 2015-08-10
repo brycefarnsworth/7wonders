@@ -1,0 +1,8 @@
+Rhodes,Colossus,0,0,0,1,0,0,0
+Lighthouse,Alexandria,0,0,0,0,0,1,0
+Temple of Artemis,Ephesus,0,0,0,0,0,0,1
+Hanging Gardens,Babylon,0,0,1,0,0,0,0
+Statue of Zeus,Olympia,1,0,0,0,0,0,0
+Mausoleum,Halicarnassus,0,0,0,0,1,0,0
+Pyramids,Giza,0,1,0,0,0,0,0
+
